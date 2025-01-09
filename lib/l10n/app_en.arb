@@ -1,0 +1,24 @@
+{
+  "helloworld": "helloworld!",
+
+  "@helloworld": {"description" : "Hello, how are you"
+  },
+  "contextmsg" : "You have pushed the button this many times:",
+  "hotstar" : "hotstar",
+  "emailorphone" : "Email or Phone number",
+  "password" : "Password",
+  "forgotpassword" : "Forgot Password?",
+  "login" : "LOGIN",
+  "dontaccount" : "Don't have an account?",
+  "signup" : "Sign Up",
+    "facebook" : "Facebook",
+    "google" : "Sign Up"
+
+
+
+
+
+
+
+
+}
