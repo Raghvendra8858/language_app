@@ -17,7 +17,6 @@ class LoginPage extends StatelessWidget {
         title: Text(AppLocalizations.of(context)!.signup),
         backgroundColor: Colors.black,
         elevation: 0,
-
         actions: [
           DropdownMenu(
             textStyle: TextStyle(color: Colors.white),
